@@ -18,7 +18,6 @@ Some basic information:
 
 Quick-Start Guide
 
-This assumes you have already flashed the proper firmware onto your main board
 1. Connect to the internet using the Wi-Fi icon in the top right
 2. Open Kiauh using the desktop shortcut
 3. Use Kiauh to install Mainsail or Fluidd (whichever web interface you prefer)\
