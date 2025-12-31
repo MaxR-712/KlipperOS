@@ -6,7 +6,7 @@ I created this to simplify klipper setup and avoid having to purchase a pi.
 Enjoy! :)
 
 ## Download
-**All ISO and checksum (md5) files are found at [sourceforge.net/projects/klipperos/files/releases/](sourceforge.net/projects/klipperos/files/releases/)**\
+**All ISO and checksum (md5) files are found at [sourceforge.net/projects/klipperos/files/releases/](https://sourceforge.net/projects/klipperos/files/releases/)**\
 (ISO files are too large to host on GitHub)
 ## 
 Some basic information:
@@ -51,7 +51,7 @@ Quick-Start Guide
 6. Open the "Web Interface" shortcut, and you should see a working interface
 7. Build and flash firmware to your printer's mainboard:\
    7a. Type 4 into Kiauh to open advanced settings, then type 1 for "[Build]"\
-   7b. Find your boards example printer.cfg at [bit.ly/exampleconfigs](bit.ly/exampleconfigs)\
+   7b. Find your boards example printer.cfg at [bit.ly/exampleconfigs](https://bit.ly/exampleconfigs)\
    7c. In the GUI, enter the firmware flashing settings found at the top of your example\
    7d. Save and quit that menu and wait for the firmware to build\
 8. Each mainboard has its own particular way to flash, so follow one of the many tutorials online for your board
