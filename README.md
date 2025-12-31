@@ -7,6 +7,10 @@ I created this to simplify klipper setup and avoid having to purchase a pi.
 ***Please read all of the directions below before you begin!***
 Enjoy! :)
 
+## Download
+**All ISO and checksum (md5) files are found at sourceforge.net/projects/klipperos/files/releases/**
+
+## 
 Some basic information:
 - You must connect to the internet
 - Klipper and Moonraker services are installed and will start automatically
