@@ -10,7 +10,7 @@ Enjoy! :)
 (ISO files are too large to host on GitHub)
 ## 
 Some basic information:
-- You must connect to the internet
+- Built using [Cubic](https://github.com/PJ-Singh-001/Cubic)
 - Klipper and Moonraker services are installed and will start automatically
 - The desktop shortcuts may display a warning each time they are opened. Just mark them as executable when prompted, and that will stop.
 - Moonraker configuration is stored in /home/ubuntu/config
