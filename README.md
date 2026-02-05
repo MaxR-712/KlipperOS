@@ -45,7 +45,7 @@ Quick-Start Guide
    3a. Type 1 into the preform action box, then press enter\
    3b. Then, type 3 or 4, depending on which interface you would like\
    3c. Reply Y to any requests about example/default configurations\
-   3d. Use any port you need or the default (by pressing enter with no value typed)\
+   3d. Use any port you need or the default (by pressing enter with no value typed)
 4. Copy the resulting IP (with the port attached)
 5. Open the "Update Klipper IP" desktop shortcut and paste it in when prompted
 6. Open the "Web Interface" shortcut, and you should see a working interface
